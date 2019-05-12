@@ -1,0 +1,9 @@
+ooo Using Connection [com.mysql.jdbc.JDBC4Connection@7d0587f1] 
+==>  Preparing: select * from tb_admin  
+==> Parameters:  
+ooo Using Connection [com.mysql.jdbc.JDBC4Connection@7d0587f1] 
+==>  Preparing: select * from tb_admin  
+==> Parameters:  
+ooo Using Connection [com.mysql.jdbc.JDBC4Connection@1c3a4799] 
+==>  Preparing: select * from tb_admin  
+==> Parameters:  
